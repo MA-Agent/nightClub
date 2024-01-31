@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nightclub", "nightclub\nightclub.csproj", "{B56D018B-DFF9-46A1-980A-F0A5524A8FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNightClub", "TestNightClub\TestNightClub.csproj", "{AADF1473-E2A3-438B-B6BF-DD1DDA1DA60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56D018B-DFF9-46A1-980A-F0A5524A8FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56D018B-DFF9-46A1-980A-F0A5524A8FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56D018B-DFF9-46A1-980A-F0A5524A8FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56D018B-DFF9-46A1-980A-F0A5524A8FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADF1473-E2A3-438B-B6BF-DD1DDA1DA60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADF1473-E2A3-438B-B6BF-DD1DDA1DA60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADF1473-E2A3-438B-B6BF-DD1DDA1DA60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADF1473-E2A3-438B-B6BF-DD1DDA1DA60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C79F43-EE29-46E9-B3DB-89EF822A03C0}
+	EndGlobalSection
+EndGlobal
